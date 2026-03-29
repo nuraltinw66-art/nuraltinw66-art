@@ -2,8 +2,8 @@
 
 # Hi, I'm a young software developer. ᕕ(´•  ͜ʖ  •`)ᕗ
 </div>
-<div align="right">
-Languages and Tools:
+<div align="left">
+## Languages and Tools:
 <hr>
 </div>
 
